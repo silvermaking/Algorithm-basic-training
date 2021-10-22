@@ -20,4 +20,4 @@
 |2021.10.16|하노이탑 이동순서(백준)| [11729](https://www.acmicpc.net/problem/11729) | 재귀, 패턴 |[solved](./algorithm/11729.하노이탑이동순서(백준).py) |
 |2021.10.17|수 정렬하기2(백준)| [2751](https://www.acmicpc.net/problem/2751) | 정렬, 병합정렬연습(시간초과) |[solved](./algorithm/2751.수정렬하기2(백준).py) |
 |2021.10.18|11724.연결요수의개수(백준)| [11724](https://www.acmicpc.net/problem/11724) | bfs(선형큐) |[solved](./algorithm/11724.연결요수의개수(백준).py) |
-
+|2021.10.22|1065.한수(백준)| [1065](https://www.acmicpc.net/problem/1065) | bfs(선형큐) |[solved](./algorithm/1065.한수(백준).py) |
