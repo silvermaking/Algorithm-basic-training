@@ -24,3 +24,4 @@
 |2021.10.22|1157.단어공부(백준)| [1157](https://www.acmicpc.net/problem/1157) | 구현, 문자열 |[solved](./algorithm/1157.단어공부(백준).py) |
 |2021.10.27|5601.쥬스나누기(SWEA| [5601](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGAylqcdYDFAUo&categoryId=AWXGAylqcdYDFAUo&categoryType=CODE&problemTitle=5601&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&) | 구현, 게임이론 |[solved](./algorithm/5601.쥬스나누기.py) |
 |2021.10.27|11586.지영공주님의마법거울(백준)| [11586](https://www.acmicpc.net/problem/11586) | 구현, 문자열 |[solved](./algorithm/11586.지영공주님의마법거울(백준).py) |
+|2021.10.29|1436.영화감독 숌(백준)| [1436](https://www.acmicpc.net/problem/1436) | 구현, 문자열 |[solved](./algorithm/11586.1436.영화감독 숌(백준).py) |
