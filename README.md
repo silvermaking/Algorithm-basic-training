@@ -26,3 +26,5 @@
 |2021.10.27|11586.지영공주님의마법거울(백준)| [11586](https://www.acmicpc.net/problem/11586) | 구현, 문자열 |[solved](./algorithm/11586.지영공주님의마법거울(백준).py) |
 |2021.10.29|1436.영화감독 숌(백준)| [1436](https://www.acmicpc.net/problem/1436) | 구현, 문자열 |[solved](./algorithm/1436.영화감독 숌(백준).py) |
 |2021.10.30|1003.피보나치함수(백준)| [1003](https://www.acmicpc.net/problem/1003) | 구현, 문자열 |[solved](./algorithm/1003.피보나치함수(백준).py) |
+|2021.10.31|5948.새샘이의735게임(SWEA)| [5948](https://c11.kr/tex8) | combination |[solved](./algorithm/5948.새샘이의735게임(SWEA).py) |
+
