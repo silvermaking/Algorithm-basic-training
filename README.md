@@ -28,4 +28,4 @@
 |2021.10.30|1003.피보나치함수(백준)| [1003](https://www.acmicpc.net/problem/1003) | 구현, 문자열 |[solved](./algorithm/1003.피보나치함수(백준).py) |
 |2021.10.31|5948.새샘이의735게임(SWEA)| [5948](https://c11.kr/tex8) | combination |[solved](./algorithm/5948.새샘이의735게임(SWEA).py) |
 |2021.10.31|5215.햄버거다이어트(SWEA)| [5215](https://url.kr/7odkz4) | 부분집합 |[solved](./algorithm/5215.햄버거다이어트(SWEA).py) |
-
+|2021.11.05|1026.보물(백준)| [1026](https://www.acmicpc.net/problem/1026) | greedy |[solved](./algorithm/1026.보물(백준).py) |
