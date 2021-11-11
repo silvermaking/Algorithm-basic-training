@@ -30,4 +30,5 @@
 |2021.10.31|5215.햄버거다이어트(SWEA)| [5215](https://url.kr/7odkz4) | 부분집합 |[solved](./algorithm/5215.햄버거다이어트(SWEA).py) |
 |2021.11.05|1026.보물(백준)| [1026](https://www.acmicpc.net/problem/1026) | greedy |[solved](./algorithm/1026.보물(백준).py) |
 |2021.11.10|9095.123더하기(백준)| [9095](https://www.acmicpc.net/problem/9095) | dp |[solved](./algorithm/9095.123더하기(백준).py) |
+|2021.11.11|7568.덩치(백준)| [7568](https://www.acmicpc.net/problem/7568) | greedy |[solved](./algorithm/7568.덩치(백준).py) |
 
