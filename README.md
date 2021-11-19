@@ -33,3 +33,4 @@
 |2021.11.11|7568.덩치(백준)| [7568](https://www.acmicpc.net/problem/7568) | greedy |[solved](./algorithm/7568.덩치(백준).py) |
 |2021.11.12|11651.좌표정렬하기2(백준)| [11651](https://www.acmicpc.net/problem/11651) | greedy |[solved](./algorithm/11651.좌표정렬하기2(백준).py) |
 |2021.11.15|11047.동전0(백준)| [11047](https://www.acmicpc.net/problem/11047) | greedy |[solved](./algorithm/11047.동전0(백준).py) |
+|2021.11.19|10773.제로(백준)| [10773](https://www.acmicpc.net/problem/10773) | stack |[solved](./algorithm/10773.제로(백준).py) |
