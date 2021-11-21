@@ -35,3 +35,5 @@
 |2021.11.15|11047.동전0(백준)| [11047](https://www.acmicpc.net/problem/11047) | greedy |[solved](./algorithm/11047.동전0(백준).py) |
 |2021.11.19|10773.제로(백준)| [10773](https://www.acmicpc.net/problem/10773) | stack |[solved](./algorithm/10773.제로(백준).py) |
 |2021.11.20|2210.숫자판점프(백준)| [2210](https://www.acmicpc.net/problem/2210) | stack |[solved](./algorithm/2210.숫자판점프(백준).py) |
+|2021.11.21|2609.최대공약수와최소공배수(백준)| [2609](https://www.acmicpc.net/problem/2609) | math |[solved](./algorithm/2609.최대공약수와최소공배수(백준).py) |
+
