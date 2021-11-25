@@ -36,6 +36,7 @@
 |2021.11.19|10773.제로(백준)| [10773](https://www.acmicpc.net/problem/10773) | stack |[solved](./algorithm/10773.제로(백준).py) |
 |2021.11.20|2210.숫자판점프(백준)| [2210](https://www.acmicpc.net/problem/2210) | stack |[solved](./algorithm/2210.숫자판점프(백준).py) |
 |2021.11.21|2609.최대공약수와최소공배수(백준)| [2609](https://www.acmicpc.net/problem/2609) | math |[solved](./algorithm/2609.최대공약수와최소공배수(백준).py) |
-|2021.11.22|10815.카드(백준)| [10815](https://www.acmicpc.net/problem/10815) | 이분탐색 |[solved](./algorithm/10815.카드(백준).py) |
-|2021.11.22|1149.RGB거리(백준)| [1149]
-(https://www.acmicpc.net/problem/1149) | dp |[solved](./algorithm/1149.RGB거리(백준).py) |
+|2021.11.22|10815.카드(백준)| [10815](https://www.acmicpc.net/problem/10815) | 이분탐색 |[solved](./algorithm/10815.카드(백준).py) 
+|2021.11.22|1149.RGB거리(백준)| [1149](https://www.acmicpc.net/problem/1149) | dp |[solved](./algorithm/1149.RGB거리(백준).py) |
+|2021.11.25|2293.동전1(백준)| [2293](https://www.acmicpc.net/problem/2293) | dp |[solved](./algorithm/2293.동전1(백준).py) |
+
