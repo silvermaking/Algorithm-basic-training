@@ -39,4 +39,5 @@
 |2021.11.22|10815.카드(백준)| [10815](https://www.acmicpc.net/problem/10815) | 이분탐색 |[solved](./algorithm/10815.카드(백준).py) 
 |2021.11.22|1149.RGB거리(백준)| [1149](https://www.acmicpc.net/problem/1149) | dp |[solved](./algorithm/1149.RGB거리(백준).py) |
 |2021.11.25|2293.동전1(백준)| [2293](https://www.acmicpc.net/problem/2293) | dp |[solved](./algorithm/2293.동전1(백준).py) |
+|2021.11.26|1920.수찾기(백준)| [1920](https://www.acmicpc.net/problem/1920) | binary_search |[solved](./algorithm/1920.수찾기(백준).py) |
 
