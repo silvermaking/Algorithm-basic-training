@@ -42,4 +42,5 @@
 |2021.11.26|1920.수찾기(백준)| [1920](https://www.acmicpc.net/problem/1920) | binary_search |[solved](./algorithm/1920.수찾기(백준).py) |
 |2021.11.27|4673.셀프넘버(백준)| [4673](https://www.acmicpc.net/problem/4673) | brute-force |[solved](./algorithm/4673.셀프넘버(백준).py) |
 |2021.11.28|11399.ATM(백준)| [11399](https://www.acmicpc.net/problem/11399) | greedy |[solved](./algorithm/11399.ATM(백준).py) |
+|2021.11.29|1931.회의실배정(백준)| [1931](https://www.acmicpc.net/problem/1931) | greedy |[solved](./algorithm/1931.회의실배정(백준).py) |
 
