@@ -3,7 +3,7 @@
 # 정올(기본훈련)
 | Type | Link | Type     | Solution                                                       |
 | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
-| Beginner_Coder | [link](http://jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20) | 도형만들기 |          |
+| Beginner_Coder | [link](http://jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20) | 도형만들기 | [completed](https://github.com/silvermaking/Algorithm-basic-training/tree/main/jungol/Beginner_Coder/%EB%8F%84%ED%98%95%EB%A7%8C%EB%93%A4%EA%B8%B01) |
 |      |      |      | |
 
 
