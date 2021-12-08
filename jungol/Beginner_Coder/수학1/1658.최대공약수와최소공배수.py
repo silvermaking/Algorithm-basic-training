@@ -4,8 +4,7 @@ def gcd_get(x, y):
     return gcd_get(y, x % y)
 
 
-a = int(input())
-b = int(input())
+a, b = map(int, input().split())
 
 ans1 = gcd_get(a, b)
 print(ans1)
