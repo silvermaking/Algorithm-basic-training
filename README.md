@@ -4,7 +4,7 @@
 | Type | Link | Type     | Solution                                                       |
 | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
 | Beginner_Coder | [link](http://jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20) | 도형만들기1, 2, 수학1 | [completed](https://github.com/silvermaking/Algorithm-basic-training/tree/main/jungol/Beginner_Coder) |
-|      |      |      | |
+
 
 
 
