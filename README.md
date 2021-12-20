@@ -1,6 +1,14 @@
 # 알고리즘 기본기 훈련
 
-# 정올(기본훈련)
+## 모두의 알고리즘 with Python
+| Chaptor |       Content       |                         Notebook                         |
+| :---------: | :------------------------------------:|:--------: |
+| 0, 1 | 도입, 알고리즘 기초 | [ch0,1](./모두의알고리즘withPython/모두의알고리즘.ipynb) |
+
+
+
+## 정올(기본훈련)
+
 | Type | Link | Type     | Solution                                                       |
 | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
 | Beginner_Coder | [link](http://jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20) | 도형만들기1, 2, 수학1 | [completed](https://github.com/silvermaking/Algorithm-basic-training/tree/main/jungol/Beginner_Coder) |
@@ -9,7 +17,7 @@
 
 
 
-# 문제 훈련
+## 문제 훈련
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
